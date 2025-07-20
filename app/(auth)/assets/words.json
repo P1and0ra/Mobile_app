@@ -1,0 +1,790 @@
+[
+  {
+    "en": "Hello",
+    "pl": "Cześć"
+  },
+  {
+    "en": "backyard",
+    "pl": "podwórko"
+  },
+  {
+    "en": "bench",
+    "pl": "ławka"
+  },
+  {
+    "en": "bike storage",
+    "pl": "przechowalnia rowerów"
+  },
+  {
+    "en": "boathouse",
+    "pl": "hangar dla łodzi"
+  },
+  {
+    "en": "climbing frame",
+    "pl": "drabinka gimnastyczna"
+  },
+  {
+    "en": "deckchair",
+    "pl": "leżak"
+  },
+  {
+    "en": "double garage",
+    "pl": "podwójny garaż"
+  },
+  {
+    "en": "driveway",
+    "pl": "podjazd"
+  },
+  {
+    "en": "dustbin",
+    "pl": "kontener na śmieci"
+  },
+  {
+    "en": "fence",
+    "pl": "ogrodzenie"
+  },
+  {
+    "en": "flowerbed",
+    "pl": "rabatka"
+  },
+  {
+    "en": "hedge",
+    "pl": "żywopłot"
+  },
+  {
+    "en": "infinity pool",
+    "pl": "basen bez krawędzi"
+  },
+  {
+    "en": "inflatable pool",
+    "pl": "basen nadmuchiwany"
+  },
+  {
+    "en": "letterbox",
+    "pl": "skrzynka na listy"
+  },
+  {
+    "en": "ornamental tree",
+    "pl": "drzewo ozdobne"
+  },
+  {
+    "en": "outdoor heater",
+    "pl": "ogrzewacz ogrodowy"
+  },
+  {
+    "en": "path",
+    "pl": "ścieżka"
+  },
+  {
+    "en": "gravel",
+    "pl": "ścieżka żwirowa"
+  },
+  {
+    "en": "pavement",
+    "pl": "chodnik"
+  },
+  {
+    "en": "plot of land",
+    "pl": "działka"
+  },
+  {
+    "en": "plumbing",
+    "pl": "instalacja wodno-kanalizacyjna"
+  },
+  {
+    "en": "pond",
+    "pl": "oczko wodne"
+  },
+  {
+    "en": "railing",
+    "pl": "balustrada"
+  },
+  {
+    "en": "roof tiles",
+    "pl": "dachówki"
+  },
+  {
+    "en": "sandbox",
+    "pl": "piaskownica"
+  },
+  {
+    "en": "shed",
+    "pl": "szopa"
+  },
+  {
+    "en": "shrub",
+    "pl": "krzew"
+  },
+  {
+    "en": "sprinkler",
+    "pl": "zraszacz"
+  },
+  {
+    "en": "staircase",
+    "pl": "klatka schodowa"
+  },
+  {
+    "en": "streetlight",
+    "pl": "latarnia uliczna"
+  },
+  {
+    "en": "swing",
+    "pl": "huśtawka"
+  },
+  {
+    "en": "treehouse",
+    "pl": "domek na drzewie"
+  },
+  {
+    "en": "vegetable plot",
+    "pl": "grządka warzywna"
+  },
+  {
+    "en": "well",
+    "pl": "studnia"
+  },
+  {
+    "en": "windowsill",
+    "pl": "parapet"
+  },
+  {
+    "en": "apartment block",
+    "pl": "blok mieszkalny"
+  },
+  {
+    "en": "basement flat",
+    "pl": "mieszkanie w suterenie"
+  },
+  {
+    "en": "bedsit",
+    "pl": "wynajęty pokój"
+  },
+  {
+    "en": "cottage",
+    "pl": "dom na wsi"
+  },
+  {
+    "en": "council house",
+    "pl": "mieszkanie komunalne"
+  },
+  {
+    "en": "country house",
+    "pl": "dwór"
+  },
+  {
+    "en": "detached house",
+    "pl": "dom wolno stojący"
+  },
+  {
+    "en": "farmhouse",
+    "pl": "dom wiejski"
+  },
+  {
+    "en": "holiday home",
+    "pl": "dom wakacyjny"
+  },
+  {
+    "en": "manor house",
+    "pl": "dwór"
+  },
+  {
+    "en": "mansion",
+    "pl": "rezydencja"
+  },
+  {
+    "en": "motor home",
+    "pl": "kamper"
+  },
+  {
+    "en": "multi-storey building",
+    "pl": "budynek wielopiętrowy"
+  },
+  {
+    "en": "penthouse",
+    "pl": "apartament na ostatnim piętrze"
+  },
+  {
+    "en": "residential building",
+    "pl": "budynek mieszkalny"
+  },
+  {
+    "en": "semi-detached house",
+    "pl": "dom bliźniak"
+  },
+  {
+    "en": "stately home",
+    "pl": "zabytrowa rezydencja wiejska"
+  },
+  {
+    "en": "studio flat",
+    "pl": "kawalerka"
+  },
+  {
+    "en": "terraced house",
+    "pl": "dom szeregowy"
+  },
+  {
+    "en": "tower block",
+    "pl": "wieżowiec"
+  },
+  {
+    "en": "townhouse",
+    "pl": "kamienica"
+  },
+  {
+    "en": "two-storey house",
+    "pl": "dom piętrowy"
+  },
+  {
+    "en": "allotment",
+    "pl": "działka pracownicza"
+  },
+  {
+    "en": "commute",
+    "pl": "dojeżdżać do pracy"
+  },
+  {
+    "en": "conveniently located",
+    "pl": "wygodnie usytuowany"
+  },
+  {
+    "en": "coutryside",
+    "pl": "na wsi"
+  },
+  {
+    "en": "downtown",
+    "pl": "entralny"
+  },
+  {
+    "en": "easy access to sth",
+    "pl": "łatwy dostęp do czegoś"
+  },
+  {
+    "en": "expansive countryside",
+    "pl": "rozległa wieś"
+  },
+  {
+    "en": "fenced off",
+    "pl": "ogrodzony"
+  },
+  {
+    "en": "gated community",
+    "pl": "ogrodzone osiedle mieszkaniowe"
+  },
+  {
+    "en": "housing estate",
+    "pl": "osiedle mieszkaniowe"
+  },
+  {
+    "en": "housing density",
+    "pl": "gęstość zabudowy mieszkalnej"
+  },
+  {
+    "en": "housing development",
+    "pl": "osiedle mieszkaniowe"
+  },
+  {
+    "en": "hustle and bustle",
+    "pl": "zgiełk"
+  },
+  {
+    "en": "isolated",
+    "pl": "odizolowany"
+  },
+  {
+    "en": "leafy",
+    "pl": "pełen zieleni"
+  },
+  {
+    "en": "location",
+    "pl": "położenie"
+  },
+  {
+    "en": "outskirts",
+    "pl": "peryferie miasta"
+  },
+  {
+    "en": "parking space",
+    "pl": "miejsce parkingowe"
+  },
+  {
+    "en": "playground",
+    "pl": "plac zabaw"
+  },
+  {
+    "en": "resident",
+    "pl": "mieszkaniec"
+  },
+  {
+    "en": "residental area",
+    "pl": "dzielnica mieszkaniowa"
+  },
+  {
+    "en": "suburb",
+    "pl": "przedmieście"
+  },
+  {
+    "en": "suburban",
+    "pl": "podmiejski"
+  },
+  {
+    "en": "trailer park ",
+    "pl": "osiedle przyczep kempingowych"
+  },
+  {
+    "en": "within easy reach",
+    "pl": "w pobliżu"
+  },
+  {
+    "en": "within walking distance of sth",
+    "pl": "w niewielkiej odległosci od czegoś"
+  },
+  {
+    "en": "airy",
+    "pl": "przestronny"
+  },
+  {
+    "en": "ancient",
+    "pl": "starożytny"
+  },
+  {
+    "en": "bare",
+    "pl": "pusty"
+  },
+  {
+    "en": "bright",
+    "pl": "jasny"
+  },
+  {
+    "en": "cluttered",
+    "pl": "zagracony"
+  },
+  {
+    "en": "cosy",
+    "pl": "przytulny"
+  },
+  {
+    "en": "cramped",
+    "pl": "ciasny"
+  },
+  {
+    "en": "damp",
+    "pl": "wilgotny"
+  },
+  {
+    "en": "designed by",
+    "pl": "zaprojectowany przez"
+  },
+  {
+    "en": "dilapidated",
+    "pl": "zrujnowany"
+  },
+  {
+    "en": "dingy",
+    "pl": "obsukrny"
+  },
+  {
+    "en": "durable",
+    "pl": "trwały"
+  },
+  {
+    "en": "easy to clean",
+    "pl": "łatwy do czyszczenia"
+  },
+  {
+    "en": "en-suite bathroom",
+    "pl": "łazienka przy sypialni"
+  },
+  {
+    "en": "fully equipped",
+    "pl": "w pełni wyposażony"
+  },
+  {
+    "en": "fully furnished",
+    "pl": "w pełni umeblowany"
+  },
+  {
+    "en": "heat-resistant",
+    "pl": "odporny na ciepło"
+  },
+  {
+    "en": "impressive",
+    "pl": "imponujący"
+  },
+  {
+    "en": "made-to-order",
+    "pl": "zrobiony na zamówienie"
+  },
+  {
+    "en": "messy",
+    "pl": "niechlujny"
+  },
+  {
+    "en": "neat and tidy",
+    "pl": "czysty"
+  },
+  {
+    "en": "open-plan",
+    "pl": "otwarty plan"
+  },
+  {
+    "en": "quaint",
+    "pl": "uroczy"
+  },
+  {
+    "en": "poky",
+    "pl": "ciasny"
+  },
+  {
+    "en": "roomy",
+    "pl": "przestronny"
+  },
+  {
+    "en": "run-down",
+    "pl": "zniszczony"
+  },
+  {
+    "en": "rural",
+    "pl": "wiejski"
+  },
+  {
+    "en": "shabby",
+    "pl": "zanidbany"
+  },
+  {
+    "en": "soundproof",
+    "pl": "wyciszony"
+  },
+  {
+    "en": "spacious",
+    "pl": "przestronny"
+  },
+  {
+    "en": "furnished",
+    "pl": "umeblowany"
+  },
+  {
+    "en": "stylish",
+    "pl": "stylowy"
+  },
+  {
+    "en": "sunny",
+    "pl": "słoneczny"
+  },
+  {
+    "en": "ultra-modern",
+    "pl": "ultra nowoczesny"
+  },
+  {
+    "en": "unfurnished",
+    "pl": "nieumeblowany"
+  },
+  {
+    "en": "unwelcomming",
+    "pl": "nieprzyjemny"
+  },
+  {
+    "en": "home from home",
+    "pl": "jak w domu"
+  },
+  {
+    "en": "eat sb out of house and home",
+    "pl": "objeść kogoś"
+  },
+  {
+    "en": "feel at home",
+    "pl": "czuć się swobodnie"
+  },
+  {
+    "en": "get on like a house in fire",
+    "pl": "zaprzyjaźnić się"
+  },
+  {
+    "en": "house hunt",
+    "pl": "szukać mieszkania"
+  },
+  {
+    "en": "keep house",
+    "pl": "prowadzić dom"
+  },
+  {
+    "en": "make yourself at home",
+    "pl": "czuj się jak u siebie"
+  },
+  {
+    "en": "on the house",
+    "pl": "na koszt firmy"
+  },
+  {
+    "en": "open house",
+    "pl": "otwarty dom"
+  },
+  {
+    "en": "put your house in order",
+    "pl": "doprowadzić własne sprawy do poządku"
+  },
+  {
+    "en": "theres no place like home",
+    "pl": "nie ma jak w domu"
+  },
+  {
+    "en": "air conditioning",
+    "pl": "klimatyzacja"
+  },
+  {
+    "en": "alarm clock",
+    "pl": "budzik"
+  },
+  {
+    "en": "antique furniture",
+    "pl": "zabytkowe meble"
+  },
+  {
+    "en": "banister",
+    "pl": "poręcz"
+  },
+  {
+    "en": "bathroom tiles",
+    "pl": "płytki łazienkowe"
+  },
+  {
+    "en": "bedside table",
+    "pl": "stolik nocny"
+  },
+  {
+    "en": "birdcage",
+    "pl": "klatka dla ptaków"
+  },
+  {
+    "en": "boiler room",
+    "pl": "kotłownia"
+  },
+  {
+    "en": "book shelf",
+    "pl": "półka na książki"
+  },
+  {
+    "en": "fitted wardrobe",
+    "pl": "szafa wnękowa"
+  },
+  {
+    "en": "bunk bed",
+    "pl": "łóżko piętrowe"
+  },
+  {
+    "en": "burglar alarm",
+    "pl": "alarm antywłamaniowy"
+  },
+  {
+    "en": "candlesick",
+    "pl": "świecznik"
+  },
+  {
+    "en": "cellar",
+    "pl": "piwnica"
+  },
+  {
+    "en": "central heating",
+    "pl": "ogrzewanie centralne"
+  },
+  {
+    "en": "chest of drawers",
+    "pl": "komoda"
+  },
+  {
+    "en": "converted loft",
+    "pl": "zaadoptowane poddasze"
+  },
+  {
+    "en": "crockery",
+    "pl": "zastawa stołowa"
+  },
+  {
+    "en": "cushion",
+    "pl": "poduszka dekoracyjna"
+  },
+  {
+    "en": "dressing table",
+    "pl": "toaletka"
+  },
+  {
+    "en": "door handle",
+    "pl": "klamka"
+  },
+  {
+    "en": "doorbell",
+    "pl": "dzwonek do drzwi"
+  },
+  {
+    "en": "doorknob",
+    "pl": "gałka do drzwi"
+  },
+  {
+    "en": "doormat",
+    "pl": "wycieraczka"
+  },
+  {
+    "en": "drier",
+    "pl": "suszarka"
+  },
+  {
+    "en": "wall-to-wall carpet",
+    "pl": "wykładzina dywanowa"
+  },
+  {
+    "en": "fitting",
+    "pl": "armatura"
+  },
+  {
+    "en": "floor-length curtains",
+    "pl": "zasłony do ziemi"
+  },
+  {
+    "en": "flowerpot",
+    "pl": "doniczka"
+  },
+  {
+    "en": "fluffy rug",
+    "pl": "puchaty dywanik"
+  },
+  {
+    "en": "bathtub",
+    "pl": "wanna wolnostojąca"
+  },
+  {
+    "en": "bookcase",
+    "pl": "regał na książki"
+  },
+  {
+    "en": "glass-fronted cabinet",
+    "pl": "witryna"
+  },
+  {
+    "en": "grandfather clock",
+    "pl": "zegar szafkowy"
+  },
+  {
+    "en": "guest room",
+    "pl": "pokój gościnny"
+  },
+  {
+    "en": "high chair",
+    "pl": "krzesełko dla dziecka"
+  },
+  {
+    "en": "household applinces",
+    "pl": "sprzęt AGD"
+  },
+  {
+    "en": "hot tub",
+    "pl": "jacuzzi"
+  },
+  {
+    "en": "king-size bed",
+    "pl": "łóżko małżieńskie"
+  },
+  {
+    "en": "kitchen sing",
+    "pl": "zlew kuchenny"
+  },
+  {
+    "en": "knock on the door",
+    "pl": "zapukać do drzwi"
+  },
+  {
+    "en": "laminate flooring",
+    "pl": "podłoga laminowana"
+  },
+  {
+    "en": "landing",
+    "pl": "półpiętro"
+  },
+  {
+    "en": "laundry",
+    "pl": "pralnia"
+  },
+  {
+    "en": "light fixtures",
+    "pl": "oświetlenie"
+  },
+  {
+    "en": "worktop",
+    "pl": "blat kuchenny"
+  },
+  {
+    "en": "matteress",
+    "pl": "materac"
+  },
+  {
+    "en": "office chair",
+    "pl": "krzesło biurowe"
+  },
+  {
+    "en": "ornament",
+    "pl": "ozdoba"
+  },
+  {
+    "en": "pantry",
+    "pl": "spriżarnia"
+  },
+  {
+    "en": "pillow",
+    "pl": "poduszka"
+  },
+  {
+    "en": "pillowcase",
+    "pl": "poszewka na poduszkę"
+  },
+  {
+    "en": "playpen",
+    "pl": "kojec"
+  },
+  {
+    "en": "potted plant",
+    "pl": "roślina doniczkowa"
+  },
+  {
+    "en": "duvet",
+    "pl": "kołdra"
+  },
+  {
+    "en": "radiator",
+    "pl": "kaloryfer"
+  },
+  {
+    "en": "roking chair",
+    "pl": "fotel bujany"
+  },
+  {
+    "en": "roller blinds",
+    "pl": "rolety"
+  },
+  {
+    "en": "running water",
+    "pl": "woda bieżąca"
+  },
+  {
+    "en": "satellite dish",
+    "pl": "antena satelitarna"
+  },
+  {
+    "en": "shower curtain",
+    "pl": "zasłonka przysznocowa"
+  },
+  {
+    "en": "sofabed",
+    "pl": "rozkładana kanapa"
+  },
+  {
+    "en": "spare bedroom",
+    "pl": "sypialnia gościnna"
+  },
+  {
+    "en": "stool",
+    "pl": "taboret"
+  },
+  {
+    "en": "storage space",
+    "pl": "miejsce do przechowywania"
+  }
+]
